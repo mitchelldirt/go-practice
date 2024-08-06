@@ -7,6 +7,7 @@ import (
 )
 
 func stringRunesBytes(){
+	return
 	var myString = []rune("Résumé")
 	var indexed = myString[0]
 	fmt.Printf("%v, %T\n", indexed, indexed)

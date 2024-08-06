@@ -10,5 +10,6 @@ func main() {
 
 	arraysSlicesLoops()
 	stringRunesBytes()
+	structsInterfaces()
 }
 
