@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func arraysSlicesLoops(){
+	return
 	// var intArr [3]int32 = [3]int32{1,2,3}
 	// intArr := [3]int32{1,2,3}
 	// ... infers size by looking at the initial value

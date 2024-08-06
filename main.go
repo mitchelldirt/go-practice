@@ -9,5 +9,6 @@ func main() {
 	fmt.Println("Start of program")
 
 	arraysSlicesLoops()
+	stringRunesBytes()
 }
 
