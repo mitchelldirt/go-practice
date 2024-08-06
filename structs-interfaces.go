@@ -37,6 +37,7 @@ type owner struct{
 }
 
 func structsInterfaces() {
+	return
 	var myEngine gasEngine = gasEngine{mpg: 20, gallons: 15}
 	var myEngine2 = struct{
 		mpg uint8
