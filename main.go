@@ -4,7 +4,6 @@ import (
 	"fmt"
 )
 
-
 func main() {
 	fmt.Println("Start of program")
 
@@ -13,5 +12,6 @@ func main() {
 	structsInterfaces()
 	pointers()
 	goRoutines()
+	channels()
+	generics()
 }
-

@@ -13,6 +13,7 @@ var dbData = []string{"id1", "id2", "id3", "id4", "id5"}
 var results = []string{}
 
 func goRoutines() {
+	return
 	// Concurrency doesn't == parallelism
 	t0 := time.Now()
 	for i := 0; i < len(dbData); i++ {
