@@ -14,4 +14,5 @@ func main() {
 	goRoutines()
 	channels()
 	generics()
+	return
 }
