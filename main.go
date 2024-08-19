@@ -14,5 +14,6 @@ func main() {
 	goRoutines()
 	channels()
 	generics()
+	printTaskTimes()
 	return
 }
